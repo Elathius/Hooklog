@@ -1,7 +1,8 @@
 # Hooklog
 A C++ key logger program with multiple features.
+This project was created for a 12 class CS project submission.
 
-The program is a c++ based application which hooks to the keyboard to recieve all keystores and log them in a text file in a givn directory.
+The program is a c++ based application which hooks to the keyboard to recieve all keystores and log them in a text file in a given directory.
 
 Initial functions:
 
