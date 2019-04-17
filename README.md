@@ -44,3 +44,5 @@ System command to open file
 
 int executeprocess(); //For the downloaded remote file containing additional commands
 Execute batch file using createprocess()
+
+Note: This keylogger works by relocating itself to a custom directory named "JavaNET" when used for the first time IF not already in the specified directory
